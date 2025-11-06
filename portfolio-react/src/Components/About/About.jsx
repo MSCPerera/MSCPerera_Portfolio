@@ -30,17 +30,17 @@ const About = () => {
         <div className="about-achievements">
             <div className="about-achievement">
                 <h1>Top 15 finalists</h1>
-                <p>Nexora 1.0 Inter University Datathon, NSBM Green University</p>
+                <p>Nexora 1.0 Inter University Datathon<br/>NSBM Green University</p>
             </div>
             <hr/>
             <div className="about-achievement">
-                <h1>Secon Round Qualification</h1>
-                <p>DevThon 2.0, University of Moratuwa</p>
+                <h1>2nd Round Qualify</h1>
+                <p>DevThon 2.0<br/>University of Moratuwa</p>
             </div>
             <hr/>
             <div className="about-achievement">
                 <h1>Participation</h1>
-                <p>IDEALIZE 2025, University of Moratuwa</p>
+                <p>IDEALIZE 2025<br/>University of Moratuwa</p>
             </div>
         </div>
     </div>
