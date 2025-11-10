@@ -1,9 +1,8 @@
-import project1_img from '../assets/project_1.svg'
-import project2_img from '../assets/project_2.svg'
-import project3_img from '../assets/project_3.svg'
-import project4_img from '../assets/project_4.svg'
-import project5_img from '../assets/project_5.svg'
-import project6_img from '../assets/project_6.svg'
+import project1_img from '../assets/project_01.png'
+import project2_img from '../assets/project_02.png'
+import project3_img from '../assets/project_03.jpg'
+import project4_img from '../assets/project_04.png'
+import project5_img from '../assets/project_05.png'
 
 const mywork_data = [
     {
@@ -30,11 +29,6 @@ const mywork_data = [
         w_no:5,
         w_name:"Web design",
         w_img:project5_img
-    },
-    {
-        w_no:6,
-        w_name:"Web design",
-        w_img:project6_img
     },
 ]
  
