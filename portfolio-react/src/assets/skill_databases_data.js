@@ -1,19 +1,16 @@
-const Skill_Frameworks_Data = [
+const Skill_Databases_Data = [
     {
-        s_name:"React.js",
+        s_name:"MySQL",
     },
         {
-        s_name:"React Native (Learning)",
+        s_name:"MongoDB",
     },
     {
-        s_name:"Node.js",
+        s_name:"PostgreSQL",
     },
     {
-        s_name:"Express.js",
-    },
-    {
-        s_name:"Tailwind CSS",
+        s_name:"Supabase",
     },
 ]
  
-export default Skill_Frameworks_Data;
+export default Skill_Databases_Data;

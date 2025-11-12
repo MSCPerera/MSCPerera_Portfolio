@@ -20,7 +20,7 @@ const Footer = () => {
       </div>
       <hr/>
       <div className="footer-bottom">
-        <p className='footer-botto-left'>2025 MSC Perera. All rights reserved.</p>
+        <p className='footer-botto-left'>2025 MSC Perera - CIS Undergraduate SUSL</p>
         <div className="footer-bottom-right">
           <p>Term of Services</p>
           <p>Privacy Policy</p>

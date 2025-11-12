@@ -25,6 +25,7 @@ const Navbar = () => {
         <img src={menu_close} onClick={closeMenu} alt="" className="nav-mob-close" />
         <li><AnchorLink className='anchor-link' href='#home'><p>Home</p></AnchorLink></li>
         <li><AnchorLink className='anchor-link' offset={50} href='#about'><p>About Me</p></AnchorLink></li>
+        <li><AnchorLink className='anchor-link' offset={50} href='#skill'><p>Skills</p></AnchorLink></li>
         <li><AnchorLink className='anchor-link' offset={50} href='#services'><p>Services</p></AnchorLink></li>
         <li><AnchorLink className='anchor-link' offset={50} href='#work'><p>Portfolio</p></AnchorLink></li>
         <li><AnchorLink className='anchor-link' offset={50} href='#contact'><p>Contact</p></AnchorLink></li>
