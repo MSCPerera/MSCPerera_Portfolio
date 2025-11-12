@@ -43,11 +43,17 @@
     background: linear-gradient(270deg, #DF8908 10%, #B415FF 100%);
     cursor: pointer;
 }
+.hero-connect a{
+    text-decoration: none;
+    color: inherit;
+}
 .hero-resume{
     padding: 25px 75px;
     border-radius: 50px;
     border: 2px solid #fff;
     cursor: pointer;
+    text-decoration: none;
+    color: #fff;
 }
 .hero-connect:hover{
     border: 2px solid #fff;
