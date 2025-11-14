@@ -97,7 +97,7 @@
     transform: scale(1.12);
     transition: 0.5s;
 }
-@media(max-width:768px){
+@media(max-width:600px){
     .about{
         gap: 80px;
         margin: 50px 70px;
@@ -128,7 +128,10 @@
         height: 6px;
     }
     .about-achievements{
-        justify-content: space-between;
+        display: flex;
+        justify-content: center;
+        gap: 10px;
+        padding-left: 10px;
     }
     .about-achievement{
         gap: 10px;
@@ -137,6 +140,7 @@
         padding-left: 13px;
         font-size: 30px;
         font-weight: 700;
+        padding-right: 20px;
     }
     .about-achievement p{
         text-align: center;
